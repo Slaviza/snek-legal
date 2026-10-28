@@ -72,4 +72,4 @@ You can ask what data we hold about you, ask us to correct it, or ask us to dele
 We may update this policy from time to time. The "Last updated" date above shows the latest version. Continued use of the App after changes means you accept the updated policy.
 
 ## 9. Contact
-For questions or data requests, email: **YOUR_EMAIL_HERE**
+For questions or data requests, email: **dcletoit@gmail.com**
