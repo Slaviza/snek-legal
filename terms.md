@@ -46,4 +46,4 @@ To the fullest extent allowed by law, we are not responsible for any loss or dam
 We may update these Terms from time to time. Continued use of the App after changes means you accept the updated Terms. The "Last updated" date above shows when they last changed.
 
 ## 12. Contact
-Questions? Email: **YOUR_EMAIL_HERE**
+Questions? Email: **dcletoit@gmail.com**
